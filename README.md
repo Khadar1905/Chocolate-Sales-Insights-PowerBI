@@ -1,21 +1,42 @@
-Designed an end-to-end interactive dashboard to analyze Sales, Profit %, Geo Performance, Product Insights, and Salesperson Metrics for a chocolate company dataset.
+# 🍫 Chocolate Sales Analysis | Power BI Dashboard
 
-🔍 What’s inside the dashboard:
-✔ KPI cards for Sales, Boxes, Shipments & Profit
-✔ CY vs PY trend analysis
-✔ Geo-wise Profit breakdown
-✔ Top Products & Top Salespersons
-✔ Salesperson performance matrix across countries
-✔ Month-wise Profit trend
-✔ Clean layout with custom theme & DAX measures
+## 📌 Project Overview
+This project analyzes chocolate sales data to uncover insights related to revenue, profit,
+product performance, and sales trends. The goal is to help stakeholders make data-driven
+business decisions using clear and interactive dashboards.
 
-This project helped me strengthen:
- 🔹 Power Query (data cleaning & modeling)
- 🔹 DAX (Profit %, YoY, KPIs, aggregations)
- 🔹 Dashboard UX design
- 🔹 Interactive visuals & slicers
+---
 
-📊 Key insights identified:
-➡ India leads with the highest profit contribution
-➡ Few products consistently generate negative profit %
-➡ Strong performers among salespersons show stable margins over time
+## 📊 Key Insights
+- Total Revenue & Profit overview
+- Top-performing products and categories
+- Sales trends across time
+- Profitability analysis by product and region
+
+---
+
+## 🛠 Tools & Technologies
+- **Power BI**
+- **DAX**
+- **Data Modeling**
+- **Excel (Source Data)**
+
+---
+
+## 📂 Files Included
+- `PowerBI_Chocolate_Project.pbix` – Power BI dashboard file
+
+---
+
+## 🚀 How to View the Dashboard
+1. Download the `.pbix` file  
+2. Open it using **Power BI Desktop**  
+3. Explore interactive visuals and filters  
+
+---
+
+## 🧠 Business Value
+This dashboard helps businesses:
+- Identify profitable products
+- Track sales performance
+- Optimize decision-making using data insights
